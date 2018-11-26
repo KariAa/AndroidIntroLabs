@@ -11,7 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
-    public static final String TAG = "DBG";
+    public static final String TAG = "DBG";  //TAG for Log
     public static final String EXTRA = "com.example.lab06";  //Key for intent
 
     @Override
