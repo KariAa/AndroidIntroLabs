@@ -1,7 +1,7 @@
 package com.example.lab06;
 
 import java.util.ArrayList;
-
+//Singleton loaded automatically and created on load
 class GlobalModel {
     private static final GlobalModel ourInstance = new GlobalModel();
 
