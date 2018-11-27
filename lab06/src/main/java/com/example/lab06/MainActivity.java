@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-//Working on dev branches - new one created 3 Red
+//Working on dev branches - new one created 3 Red B
 public class MainActivity extends AppCompatActivity {
     public static final String TAG = "DBG";  //TAG for Log
     public static final String EXTRA = "com.example.lab06";  //Key for intent
